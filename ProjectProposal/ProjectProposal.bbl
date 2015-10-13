@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bansal}
+A.~Bansal, R.~Agarwal, and R.K. Sharma.
+\newblock Predicting gender using iris images.
+\newblock In {\em Res. J. Recent Sci.}, volume 3(4), pages 20--26.
+  International Science Congress Association, April 2014.
+
+\bibitem{Lagree}
+S.~Lagree and K.W. Bowyer.
+\newblock Predicting ethnicity and gender from iris texture.
+\newblock In {\em Technologies for Homeland Security (HST), 2011 IEEE
+  International Conference on}, pages 440--445. Nov 2011.
+
+\bibitem{Tapia}
+JuanE. Tapia, ClaudioA. Perez, and KevinW. Bowyer.
+\newblock Gender classification from iris images using fusion of uniform local
+  binary patterns.
+\newblock In Lourdes Agapito, Michael~M. Bronstein, and Carsten Rother,
+  editors, {\em Computer Vision - ECCV 2014 Workshops}, volume 8926 of {\em
+  Lecture Notes in Computer Science}, pages 751--763. Springer International
+  Publishing, 2015.
+
+\bibitem{Thomas}
+V.~Thomas, N.V. Chawla, K.W. Bowyer, and P.J. Flynn.
+\newblock Learning to predict gender from iris images.
+\newblock In {\em Biometrics: Theory, Applications, and Systems, 2007. BTAS
+  2007. First IEEE International Conference on}, pages 1--5. Sept 2007.
+
+\end{thebibliography}
