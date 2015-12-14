@@ -1,3 +1,6 @@
+%% Code By- Kedar Amrolkar and Arpita Tugave, 
+%  University of Florida, Gainesville 
+%  Extracts the feature set from templates as per given feature extraction method
 %% clean up
 clear all
 close all

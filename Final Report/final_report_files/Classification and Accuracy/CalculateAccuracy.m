@@ -1,4 +1,5 @@
 function [accuracy] = CalculateAccuracy(ActualTestGroup,ClassifiedTestGroup)
+% calculates accuracy
 total = size(ClassifiedTestGroup);
 count=0;
 incorrect = [];

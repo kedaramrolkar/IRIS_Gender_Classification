@@ -1,3 +1,6 @@
+%% Code By- Kedar Amrolkar and Arpita Tugave, 
+%  University of Florida, Gainesville 
+%  
 %% GRAB feature detector
 
 function Grab_vector = grab_generic_LBP_R(varargin)

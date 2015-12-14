@@ -1,3 +1,7 @@
+%% Code By- Kedar Amrolkar and Arpita Tugave, 
+%  University of Florida, Gainesville 
+%  This code runs the given classifier on the gven feature extraction technique and gives the accuracy as output.
+% This code uses the CalculateAccuracy.m code 
 %% cleanup
 close all
 clear all
